@@ -1,0 +1,6 @@
+name: BlockVersion
+version: 1.2
+main: de.ghac.blockversion.BlockVersion
+author: ghac
+website: www.ghac.de
+depend: [ProtocolSupport]
